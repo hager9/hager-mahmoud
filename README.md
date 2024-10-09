@@ -1,3 +1,4 @@
+![logo](https://github.com/hager9/hager-mahmoud/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Hager Mahmoud</h1>
 <h3 align="center">👩‍💻 Frontend Developer specializing in building interactive, user-friendly web applications with React.js. With a background in Computer Systems Engineering, I leverage my technical expertise to create scalable, high-performance websites. Passionate about coding, continuous learning, and bringing innovative ideas to life. Check out my projects, where I integrate modern frameworks, APIs, and libraries to solve real-world problems.</h3>
 <br/>
