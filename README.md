@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QIXT2l6AlHr3_KcLeSKmz9yuwiwWUvWb/view?usp=sharing](https://drive.google.com/file/d/1QIXT2l6AlHr3_KcLeSKmz9yuwiwWUvWb/view?usp=sharing)
 
+- <h4> Completed diplomas in frontend development from both Route Academy and DEPI. During my training, I developed several hands-on projects that showcase my skills in creating dynamic, user-friendly web applications. Passionate about harnessing modern technologies to deliver exceptional user experiences. </h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hager-mahmoud-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager mahmoud" height="30" width="40" /></a>
